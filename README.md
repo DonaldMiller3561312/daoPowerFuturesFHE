@@ -1,4 +1,4 @@
-```markdown
+
 # daoPowerFuturesFHE: A DEX for Trading FHE-Encrypted Perpetual Futures
 
 daoPowerFuturesFHE is a decentralized exchange (DEX) that facilitates the trading of FHE-encrypted perpetual futures based on the governance power of decentralized autonomous organizations (DAOs). This innovative platform leverages **Zama's Fully Homomorphic Encryption technology** to ensure that all transaction data remains confidential while enabling users to engage in financial markets with peace of mind.
